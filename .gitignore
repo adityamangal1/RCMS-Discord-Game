@@ -1,0 +1,4 @@
+certs/cc-ca.crt
+.vscode
+appENV
+__pycache__
